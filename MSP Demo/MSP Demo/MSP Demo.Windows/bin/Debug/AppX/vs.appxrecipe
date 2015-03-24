@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTS-SURFACE</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>977e005b-3aac-41a5-b214-1abad648fe7a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5BC40A5A94F7C556D2D6AB9D31CE8575BA81869361809AE4D025BBD7DE58434F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>977e005b-3aac-41a5-b214-1abad648fe7a_1.0.0.0_neutral__4bha6t8v6mmqe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>977e005b-3aac-41a5-b214-1abad648fe7a_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>977e005b-3aac-41a5-b214-1abad648fe7a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-19T01:38:20.711</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\MSP Demo.Windows.exe">
+      <PackagePath>MSP Demo.Windows.exe</PackagePath>
+      <Modified>2015-02-19T02:11:20.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-02-19T01:22:22.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-19T01:26:11.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-02-19T02:09:27.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-02-19T01:26:11.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-02-19T01:26:11.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\MSP Demo.Windows.xr.xml">
+      <PackagePath>MSP Demo.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-19T01:51:34.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\MSP Demo\MSP Demo\MSP Demo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-19T01:38:20.621</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
